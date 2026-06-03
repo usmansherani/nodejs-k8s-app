@@ -39,7 +39,7 @@ app.get('/', (req, res) => {
   </head>
   <body>
     <div class="card">
-      <h1>🚀 DevOps Project</h1>
+      <h1>🚀 DevOps Project - CI/CD Works!</h1>
       <h3>Node.js + Docker + Kubernetes on AWS</h3>
       <div class="info">
         <div class="label">Timestamp</div>
